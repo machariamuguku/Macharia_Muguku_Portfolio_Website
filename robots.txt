@@ -1,0 +1,3 @@
+#Begin Macharia Muguku Sitemap.
+sitemap: http://muguku.co.ke/sitemap.xml.gz
+#End Macharia Muguku Sitemap.
