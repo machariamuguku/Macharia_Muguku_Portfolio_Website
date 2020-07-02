@@ -1,4 +1,6 @@
-# Software Engineer Portfolio Website
+# Software Engineer Portfolio Website (Archived)
+
+## N/B: This project is archived and no longer maintained
 
 My Portfolio Website.
 
