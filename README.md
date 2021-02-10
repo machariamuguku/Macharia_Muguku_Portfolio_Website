@@ -4,6 +4,8 @@
 
 My Portfolio Website.
 
+[Linked-in post on the motivation and what I learnt doing this Project](https://www.linkedin.com/posts/machariamuguku_30appschallenge-100daysofcode-fullstackjavascript-activity-6503218203760562176-CSmO)
+
 ## Technology Stack
 
 HTML5, bulma CSS framework, Vanilla JavaScript and google analytics.
